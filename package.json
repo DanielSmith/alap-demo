@@ -1,0 +1,15 @@
+{
+  "name": "alap-demo",
+  "version": "1.0.0",
+  "description": "standalone demo package that uses alap",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel serve index.html   --no-cache"
+  },
+  "author": "Daniel Smith",
+  "license": "MIT",
+  "dependencies": {
+    "alap": "^1.2.3",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
